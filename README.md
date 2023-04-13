@@ -1,5 +1,4 @@
-# Simple-GPT-3.5-API-script
-A simple application of the OpenAI.
+A simple application of the OpenAI API.
 
 Working on making this a website with ads to help pay insurance lol  
 
