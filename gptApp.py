@@ -1,8 +1,10 @@
 import openai
 import gradio as gr
-from 
 
-openai.api_key = "INSERT API KEY HERE"
+#with open('api_key.txt', 'r') as f:
+#    openai.api_key = f.read().strip()
+
+openai.api_key = input("please input your API key")
 
 messages = [
     {"role": "system", "content": "You are a helpful and kind AI Assistant."},
