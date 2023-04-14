@@ -12,4 +12,4 @@ Downsides:
 Features:
 * Fully working Davinci-3 autocompletion model
 * Tweakable variables for realtime editing of the model's behavior.
-* * Temperature (creativity, randomness)
+  * Temperature (creativity, randomness)
