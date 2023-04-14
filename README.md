@@ -17,3 +17,4 @@ Features:
     * Top P (language diversity, default = 0.5)
     * Frequency Penalty (decreases repetitiveness)
     * Presence Penalty (changes topics more often)
+    
