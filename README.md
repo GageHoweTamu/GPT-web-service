@@ -1,15 +1,15 @@
 A simple application of the OpenAI API.
   
-#Reasons I use this instead of ChatGPT:
-* much faster results
-* less censorship
-* more control over parameters (more customizeable results)
+## Why not ChatGPT?
+* Much faster results, works when ChatGPT is offline
+* Less censorship (bypassed moderation endpoint)
+* More control over parameters (more customizeable results)
 
-#Downsides:
+## Downsides
 * Will require an OpenAI API key (paid after may 1st)
 * Must be run once every 3 days to make sure the Gradio server is online (to be hosted on HuggingFace soon)
 
-#Features:
+## Features
 * Fully working Davinci-3 autocompletion model
 * Tweakable variables for realtime editing of the model's behavior.
     * Temperature (creativity, randomness)
@@ -18,3 +18,6 @@ A simple application of the OpenAI API.
     * Frequency Penalty (decreases repetitiveness)
     * Presence Penalty (changes topics more often)
     
+## To be added
+* Switching between models (GPT-3.5, etc.)
+* Presets that change the parameters for different tasks
