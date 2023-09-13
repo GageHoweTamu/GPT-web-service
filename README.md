@@ -1,7 +1,7 @@
 A simple application of the OpenAI API.
   
 ## Why not ChatGPT?
-* Much faster results, works when ChatGPT is offline
+* Much faster (and better) results, works when ChatGPT is offline
 * Less censorship (bypassed moderation endpoint)
 * More control over parameters (more customizeable results)
 
