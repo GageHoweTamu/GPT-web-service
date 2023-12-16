@@ -18,6 +18,6 @@ A simple application of the OpenAI API.
     * Frequency Penalty (decreases repetitiveness)
     * Presence Penalty (changes topics more often)
     
-## To be added
+## Potential future additions
 * Switching between models (GPT-3.5, etc.)
 * Presets that change the parameters for different tasks
