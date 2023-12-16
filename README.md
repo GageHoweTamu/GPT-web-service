@@ -1,12 +1,12 @@
 A simple application of the OpenAI API.
   
-## Why not ChatGPT?
+## Perks
 * Much faster (and better) results, works when ChatGPT is offline
-* Less censorship (bypassed moderation endpoint)
+* Less censorship (bypassed moderation)
 * More control over parameters (more customizeable results)
 
-## Downsides
-* Will require an OpenAI API key (paid after may 1st)
+## Requirements
+* An OpenAI API key
 * Must be run once every 3 days to make sure the Gradio server is online (to be hosted on HuggingFace soon)
 
 ## Features
